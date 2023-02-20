@@ -34,10 +34,7 @@
    <h1> Thankyou, Happy Learning FOLKS!!!!!!!!!!! 12345 </h1>
    <h1> JENKINS COURSE </h1>
    <h1> CI/CD COURSE </h1>
-   <h1> finally </h1>
-   <h1> SMB </h1>
-   <h1> COFFEE </h1>
-   <h1> ELECTRO </h1>
+   <h1> FINAL TOPIC </h1>
    
    
 
